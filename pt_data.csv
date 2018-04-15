@@ -1,0 +1,4 @@
+subject_name, temperature, flu_status, gender,blood
+Jon-Lark Kim,36.1, FALSE, Male, O
+Jane Lee,36.5, FALSE, Female, AB
+Patrick Park,40.1, TRUE, Male, A

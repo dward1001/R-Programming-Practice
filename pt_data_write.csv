@@ -1,0 +1,4 @@
+"","subject_name","temperature","flu_status","gender","blood"
+"1","Jon-Lark Kim",36.1," FALSE"," Male"," O"
+"2","Jane Lee",36.5," FALSE"," Female"," AB"
+"3","Patrick Park",40.1," TRUE"," Male"," A"
